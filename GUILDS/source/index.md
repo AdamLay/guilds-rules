@@ -53,4 +53,5 @@ content/activation_phase
 content/movements
 content/control_area
 content/line_of_vision
+content/attack_action
 ```
