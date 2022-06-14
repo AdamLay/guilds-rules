@@ -43,10 +43,11 @@ Choose your allies wisely, as siding with certain factions will prevent you from
   :caption: GUILDS
   :hidden:
 
-wheel_of_forces
-the_guildhall_deck
-the_model_cards
-the_dice
-basic_rules
-event_phase
+content/wheel_of_forces
+content/the_guildhall_deck
+content/the_model_cards
+content/the_dice
+content/basic_rules
+content/event_phase
+content/activation_phase
 ```
