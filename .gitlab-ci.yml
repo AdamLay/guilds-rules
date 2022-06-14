@@ -1,0 +1,10 @@
+image: python:3.10.5-alpine3.16
+
+pages:
+  script:
+    - pip install sphinx sphinx-rtd-theme myst-parser
+    - mkdir ./public
+    - sphinx-build ./GUILDS/source/ ./public
+  artifacts:
+    paths:
+      - public
