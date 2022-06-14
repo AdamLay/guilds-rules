@@ -22,12 +22,12 @@ As you can see, there are some connections as you rotate the Wheel across Adjace
 </img>
 
 * **Fortitude** (<span style="color:#fbd892">**Yellow**</span>)<br>
-  Resistance, Perseverance, Honor
+  _Resistance, Perseverance, Honor_
 * **Chaos** (<span style="color:#c44c47">**Red**</span>)<br>
-  Instinct, Strength, Raid
+  _Instinct, Strength, Raid_
 * **Corruption** (<span style="color:black">**Black**</span>)<br>
-  Oppression, Fear, Sacrifice
+  _Oppression, Fear, Sacrifice_
 * **Order** (<span style="color:#cadcd3">**White**</span>)<br>
-  Justice, Law, Compassion
+  _Justice, Law, Compassion_
 * **Wild** (<span style="color:#65d856">**Green**</span>)<br>
-  Wildlife, Growth, Survival
+  _Wildlife, Growth, Survival_
