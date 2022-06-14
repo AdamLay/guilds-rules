@@ -45,4 +45,5 @@ Choose your allies wisely, as siding with certain factions will prevent you from
 
 wheel_of_forces
 the_guildhall_deck
+the_model_cards
 ```
