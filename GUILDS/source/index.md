@@ -50,4 +50,5 @@ content/the_dice
 content/basic_rules
 content/event_phase
 content/activation_phase
+content/movements
 ```
