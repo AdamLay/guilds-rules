@@ -94,3 +94,33 @@ causing just 1 Wound: being Weak to Fire, the
 Draugr receives 2 Wounds instead and is
 Vanquished.
 ```
+
+## Area of Effect (AoE)
+
+AoE indicates Attacks or Spells that can affect multiple models within a specified area, for example “every model within 10” of a designated point”.  
+The AoE could be a Circle, a Cone, a Square or a Line.
+Any models that fit into the shape of the AoE Cone/Square/Circle (or models crossed by a Line AoE), are considered targets regardless if they are in a Formation or not.
+For this reason, AoE Attacks are especially good at breaking Formations.  
+
+An AOE that gives bonuses to models within its range will typically not require dice to be rolled, like most single target Heals or buffs.  
+
+```{attention}
+Unless AoE Attacks, Spells and Abilities specify that they affect only Enemies, they actually affect all models inside a designated area, including allies.  
+Be careful with those explosions and cannonballs!
+```
+
+### AoE Attacks Dice
+
+AoE Spells, Attacks, Items and Abilities that potentially inflict AoE Wounds are considered AoE Attacks.  
+AoE Attacks always indicate a number of AoE ATK Dice.  
+These ones differ from regular ATK dice because they are multiplied by the models in the Area.  
+
+The caster of the AoE Attack rolls the corresponding dice to each target separately (one by one), and compares the corresponding dice results to the target Defense before rolling for the next target.  
+AoE ATK dice in a range of 0” are Attacks that target all Engaged models, rolling the amount of ATK dice indicated to every target.  
+
+```{hint}
+Example: Vesdra the Shaman casts Fire Cannon, which has 2 AoE ATK dice, on an area with 6 Skeletons.  
+She needs to roll a total of 12 ATK dice (2 for each Skeleton), so she starts by rolling and comparing 2 dice with the first target, Vanquishing it.
+After the first Skeleton has been Vanquished, she proceeds rolling on the next Skeleton.  
+After she repeated the process with all 6 skeletons the Spell is terminated.
+```
