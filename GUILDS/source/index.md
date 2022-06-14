@@ -48,4 +48,5 @@ the_guildhall_deck
 the_model_cards
 the_dice
 basic_rules
+event_phase
 ```
