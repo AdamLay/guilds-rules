@@ -55,26 +55,26 @@ Actual printable illustrated Cards will appear at a later stage
 
 With a quick look at your Guildhall deck you are always able to determine how many Model Cards you are able to include in your Guild.  
 
-* Great Hall (**unique**):
-  +1 Guildhall Card
-  +1 Hero Card Slot
-  +2 Infantry Cards Slot
-* Garrison: +2 Infantry Cards Slot
-* Stables: +2 Cavalry Cards Slot
-* Heroic Inspiration: +1 Hero Card Slot
-* Beast Lair: +1 Heroic Mount Card Slot or +1 Heroic Beast card Slot
-* Elemental Arcanum: Your Arcanists
+* **Great Hall** (_**unique**_):<br>
+  +1 Guildhall Card<br>
+  +1 Hero Card Slot<br>
+  +2 Infantry Cards Slot<br>
+* **Garrison**: +2 Infantry Cards Slot
+* **Stables**: +2 Cavalry Cards Slot
+* **Heroic Inspiration**: +1 Hero Card Slot
+* **Beast Lair**: +1 Heroic Mount Card Slot or +1 Heroic Beast card Slot
+* **Elemental Arcanum**: Your Arcanists
   proficients in this school can cast any spell
   from its list.
-* Druidcraft Arcanum: Your Arcanists proficients in this school
+* **Druidcraft Arcanum**: Your Arcanists proficients in this school
   can cast any spell from its list.
-* Animancy Arcanum: Your Arcanists proficients in this school
+* **Animancy Arcanum**: Your Arcanists proficients in this school
   can cast any spell from its list.
-* Necromancy Arcanum: Your Arcanists proficients in this school
+* **Necromancy Arcanum**: Your Arcanists proficients in this school
   can cast any spell from its list.
-* Diplomatic Deal (**unique**): +1 Hero from an adjacent Force
+* **Diplomatic Deal** (_**unique**_): +1 Hero from an adjacent Force
   From now on your Guildhall cards who provide Guild Members let you choose model Cards from this faction as long as you have one Hero belonging to it.
-* Arcane Forge (**unique**): Equip your Heroic models with Artifacts cards. ( Artifacts cards coming soon)
+* **Arcane Forge** (_**unique**_): Equip your Heroic models with Artifacts cards. ( Artifacts cards coming soon)
 
 ## Quick Game Guildhall Setup
 
