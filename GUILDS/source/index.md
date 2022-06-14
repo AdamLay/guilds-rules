@@ -51,4 +51,5 @@ content/basic_rules
 content/event_phase
 content/activation_phase
 content/movements
+content/control_area
 ```
