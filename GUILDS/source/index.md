@@ -47,4 +47,5 @@ wheel_of_forces
 the_guildhall_deck
 the_model_cards
 the_dice
+basic_rules
 ```
