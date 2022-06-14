@@ -1,11 +1,3 @@
-.. raw:: html
-
-    <style> .red {color:#c44c47; font-weight:bold;} </style>
-    <style> .yellow {color:#fbd892; font-weight:bold;} </style>
-    <style> .white {color:#cadcd3; font-weight:bold;} </style>
-    <style> .black {color:black; font-weight:bold;} </style>
-    <style> .green {color:#65d856; font-weight:bold;} </style>
-
 The Wheel of Forces
 ===================
 
@@ -21,23 +13,21 @@ Not only you are able to pick characters from a single Force: as you expand your
 Here is a list of the five Forces.  
 As you can see, there are some connections as you rotate the Wheel across Adjacent Forces:
 
-.. image:: ./_static/wheel.png
-   :alt: Wheel of Forces
-   :align: center
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;"
+    src="./_static/wheel.png"
+    alt="Banner">
+</img>
 
-.. role:: red
-.. role:: yellow
-.. role:: white
-.. role:: black
-.. role:: green
-
-* **Fortitude** (:yellow:`Yellow`)
-  | Resistance, Perseverance, Honor
-* **Chaos** (:red:`Red`)
-  | Instinct, Strength, Raid
-* **Corruption** (:black:`Black`)
-  | Oppression, Fear, Sacrifice
-* **Order** (:white:`White`)
-  | Justice, Law, Compassion
-* **Wild** (:green:`Green`)
-  | Wildlife, Growth, Survival
+* **Fortitude** (<span style="color:#fbd892">**Yellow**</span>)<br>
+  Resistance, Perseverance, Honor
+* **Chaos** (<span style="color:#c44c47">**Red**</span>)<br>
+  Instinct, Strength, Raid
+* **Corruption** (<span style="color:black">**Black**</span>)<br>
+  Oppression, Fear, Sacrifice
+* **Order** (<span style="color:#cadcd3">**White**</span>)<br>
+  Justice, Law, Compassion
+* **Wild** (<span style="color:#65d856">**Green**</span>)<br>
+  Wildlife, Growth, Survival

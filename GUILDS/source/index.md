@@ -1,7 +1,10 @@
-.. image:: ./_static/banner.png
-   :alt: Banner
-   :align: center
-
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;"
+    src="./_static/banner.png"
+    alt="Banner">
+</img>
 
 Alpha 0.802
 ===========
@@ -35,10 +38,11 @@ Advance through Quests, recruit mercenaries, warriors, arcanists and inspire mor
 Depending on your Guildmaster creed and virtues, you will inspire like minded armies and creatures to join your cause.  
 Choose your allies wisely, as siding with certain factions will prevent you from recruiting the ones who do not share their vision of the world.  
 
-.. toctree::
+```{toctree}
   :maxdepth: 2
   :caption: GUILDS
   :hidden:
 
-  wheel_of_forces
-  the_guildhall_deck
+wheel_of_forces
+the_guildhall_deck
+```
