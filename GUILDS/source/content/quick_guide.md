@@ -1,4 +1,4 @@
-Basic Rules
+Quick Guide
 ===========
 
 Here is a quick guide that includes everything you need to get started.

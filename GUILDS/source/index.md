@@ -39,7 +39,7 @@ Depending on your Guildmaster creed and virtues, you will inspire like minded ar
 Choose your allies wisely, as siding with certain factions will prevent you from recruiting the ones who do not share their vision of the world.  
 
 ```{toctree}
-  :maxdepth: 2
+  :maxdepth: 4
   :caption: GUILDS
   :hidden:
 
@@ -47,7 +47,21 @@ content/wheel_of_forces
 content/the_guildhall_deck
 content/the_model_cards
 content/the_dice
-content/basic_rules
+```
+
+```{toctree}
+  :maxdepth: 4
+  :caption: Basics
+  :hidden:
+
+content/quick_guide
+```
+
+```{toctree}
+  :maxdepth: 4
+  :caption: Details
+  :hidden:
+
 content/event_phase
 content/activation_phase
 content/movements
@@ -56,3 +70,4 @@ content/line_of_vision
 content/attack_action
 content/wounds
 ```
+
