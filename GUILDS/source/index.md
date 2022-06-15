@@ -70,4 +70,11 @@ content/line_of_vision
 content/attack_action
 content/wounds
 ```
+```{toctree}
+  :maxdepth: 4
+  :caption: Campaigns
+  :hidden:
+
+content/campaigns/intro
+```
 
