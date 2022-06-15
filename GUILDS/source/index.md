@@ -59,7 +59,7 @@ content/quick_guide
 
 ```{toctree}
   :maxdepth: 4
-  :caption: Details
+  :caption: Detailed Rules
   :hidden:
 
 content/event_phase
