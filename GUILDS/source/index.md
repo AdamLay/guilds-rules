@@ -72,6 +72,7 @@ content/wounds
 content/conditions
 content/towering_models
 content/formations
+content/heroic_reactions
 ```
 ```{toctree}
   :maxdepth: 4
