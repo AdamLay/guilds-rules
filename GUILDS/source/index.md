@@ -74,6 +74,7 @@ content/towering_models
 content/formations
 content/heroic_reactions
 content/the_arcane
+content/dooms
 ```
 ```{toctree}
   :maxdepth: 4
