@@ -70,7 +70,8 @@ content/line_of_vision
 content/attack_action
 content/wounds
 content/conditions
-content/towerin_models
+content/towering_models
+content/formations
 ```
 ```{toctree}
   :maxdepth: 4
