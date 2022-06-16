@@ -73,6 +73,7 @@ content/conditions
 content/towering_models
 content/formations
 content/heroic_reactions
+content/the_arcane
 ```
 ```{toctree}
   :maxdepth: 4
