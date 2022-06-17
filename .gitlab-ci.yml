@@ -5,6 +5,7 @@ pages:
     - pip install sphinx sphinx-rtd-theme myst-parser
     - mkdir ./public
     - sphinx-build ./GUILDS/source/ ./public
+    - sphinx-build -b epub -Depub_tocscope='includehidden' ./GUILDS/source/ ./public
   artifacts:
     paths:
       - public
