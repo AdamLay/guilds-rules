@@ -67,3 +67,5 @@ html_static_path = ['_static']
 # EPUB
 #epub_show_urls = 'footer'
 epub_tocdepth = 4
+epub_tocscope = 'includehidden'
+
