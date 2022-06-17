@@ -17,8 +17,8 @@ As you can see, there are some connections as you rotate the Wheel across Adjace
     style="display: block; 
            margin-left: auto;
            margin-right: auto;"
-    src="./_static/wheel.png"
-    alt="Banner">
+    src="../_static/wheel.png"
+    alt="Wheel of Forces">
 </img>
 
 * **Fortitude** (<span style="color:#fbd892">**Yellow**</span>)<br>
