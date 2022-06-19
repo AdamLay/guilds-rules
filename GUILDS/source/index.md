@@ -75,6 +75,7 @@ content/formations
 content/heroic_reactions
 content/the_arcane
 content/dooms
+content/heroic_mounts
 ```
 ```{toctree}
   :maxdepth: 4
