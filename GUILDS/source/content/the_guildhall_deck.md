@@ -72,7 +72,7 @@ With a quick look at your Guildhall deck you are always able to determine how ma
   can cast any spell from its list.
 * **Necromancy Arcanum**: Your Arcanists proficients in this school
   can cast any spell from its list.
-* **Diplomatic Deal** (_**unique**_): +1 Hero from an adjacent Force
+* **Diplomatic Deal** (_**unique**_): +1 Hero from an adjacent Force.
   From now on your Guildhall cards who provide Guild Members let you choose model Cards from this faction as long as you have one Hero belonging to it.
 * **Arcane Forge** (_**unique**_): Equip your Heroic models with Artifacts cards. ( Artifacts cards coming soon)
 
